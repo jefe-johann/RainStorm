@@ -46,8 +46,8 @@ Unlike white noise apps that only play audio, RainStorm transforms your entire s
 
 ## Privacy & Legal
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Service](terms-of-service.md)
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
 
 ---
 
