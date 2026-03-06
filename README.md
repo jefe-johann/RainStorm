@@ -2,7 +2,7 @@
 
 **Bring the storm to your desktop.**
 
-RainStorm is a native macOS wellness utility that overlays a beautiful, procedural rain simulation directly onto your desktop — so you can work, focus, and breathe while the rain falls around you.
+RainStorm is a native macOS wellness utility that overlays a beautiful, procedural rain simulation directly onto your desktop, so you can work, focus, and breathe while the rain falls around you.
 
 **Available Soon on the Mac App Store**
 
@@ -10,7 +10,7 @@ RainStorm is a native macOS wellness utility that overlays a beautiful, procedur
 
 ## What It Does
 
-Do you feel cozy and focused when there's a storm pitter-pattering outside your window? RainStorm brings that feeling to your workspace, any time you need it.
+Do you feel cozy and focused when there's a storm pitter-pattering outside your window? RainStorm brings that feeling to your workspace.
 
 Unlike white noise apps that only play audio, RainStorm transforms your entire screen into a living, breathing environment. Rain falls across all your displays, dims your screen like real clouds rolling in, and plays high-quality storm audio — all while you keep working. Your mouse clicks pass right through.
 
@@ -48,7 +48,3 @@ Unlike white noise apps that only play audio, RainStorm transforms your entire s
 
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [Terms of Service](TERMS_OF_SERVICE.md)
-
----
-
-*Built for Mac power users who believe the best work happens when the environment is just right.*
