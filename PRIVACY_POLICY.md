@@ -67,7 +67,7 @@ RainStorm includes an optional "Download Logs..." support feature.
 Support archives can include:
 
 - RainStorm log entries from Apple unified logging for the app subsystem
-- app/build and macOS version information
+- app/build, macOS version, and hardware metadata (for example Mac model identifier, CPU core counts, architecture, and RAM amount)
 - configuration snapshots (app settings, scheduler settings, runtime renderer config)
 - connected screen metadata (for example screen name, frame size, and scale factor)
 - local file metadata needed to create the archive (for example file timestamps)
