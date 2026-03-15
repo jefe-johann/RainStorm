@@ -31,7 +31,7 @@ Unlike white noise apps that only play audio, RainStorm transforms your entire s
 - **Meeting detection** — stops storms the moment your mic or camera activates
 - **Quiet hours** — schedule total silence during specific times of day
 
-### Your Storm, Your Way
+### Configure Everything
 - Control storm frequency, duration, and intensity
 - Adjust screen dimming to taste
 - Set rain volume straight from the menu bar
