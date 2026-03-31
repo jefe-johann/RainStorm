@@ -2,7 +2,7 @@
 
 **Bring the storm to your desktop.**
 
-RainStorm is a native macOS wellness utility that overlays a beautiful, procedural rain simulation directly onto your desktop, so you can work, focus, and breathe while the rain falls around you.
+RainStorm is a native macOS menubar app that overlays a beautiful, procedural rain simulation directly onto your desktop, so you can work, focus, and breathe while the rain falls around you.
 
 **Available Soon on the Mac App Store**
 
@@ -31,7 +31,7 @@ Unlike white noise apps that only play audio, RainStorm transforms your entire s
 - **Meeting detection** — stops storms the moment your mic or camera activates
 - **Quiet hours** — schedule total silence during specific times of day
 
-### Configure Everything
+### Storm Scheduler
 - Control storm frequency, duration, and intensity
 - Adjust screen dimming to taste
 - Set rain volume straight from the menu bar
