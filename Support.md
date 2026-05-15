@@ -8,13 +8,15 @@ If you’re running into any technical issues, have a feature suggestion, or jus
 
 Sometimes, with technical issues, it helps to see a log file that shows us what's going on in the app. To share your log file, go to Settings > About, and click "Download logs.." at the bottom. Attach this zip file to your email and we'll have everything we need to know to help you :)
 
+**Contact me directly:**
+[jeffschumann.dev@gmail.com](mailto:jeffschumann.dev@gmail.com)
+
+Please include the app name in the subject line, and as much detail as you can about the issue you're experiencing. 
+
 ### Reviews
 Reviews are super helpful to help the app grow. Please leave a review in the App Store! 
 
 With that said, reviews are not great for support questions. We don't have a way to reach out to you. If you need support, please send us an email rather than asking in a review.
-
-**Contact me directly:**
-[jeffschumann.dev@gmail.com](mailto:jeffschumann.dev@gmail.com)
 
 ---
 *RainStorm is a labor of love. Thanks for supporting independent Mac development.*
